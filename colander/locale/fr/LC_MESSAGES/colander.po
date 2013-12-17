@@ -55,7 +55,7 @@ msgstr ""
 
 #: colander/__init__.py:423
 msgid "Must be a URL"
-msgstr ""
+msgstr "Doit être une URL valide"
 
 #: colander/__init__.py:519
 msgid "\"${val}\" is not a mapping type: ${err}"
